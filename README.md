@@ -18,3 +18,8 @@ OpenFeign - Declarative REST Client - para conseguir criar um cliente HTTP para 
 Spring Data JPA
 
 Foi instalado manualmente: OpenAPI/Swagger
+![2a](https://github.com/user-attachments/assets/ae2257a7-4214-4db7-ac3b-73ccf05d5ec9)
+
+
+![3a](https://github.com/user-attachments/assets/0c76e266-5d3c-4bdf-b59d-7469de4ad6f6)
+
